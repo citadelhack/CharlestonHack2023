@@ -1,0 +1,13 @@
+{
+	"workbench.startupEditor": "newUntitledFile",
+	"editor.fontSize": 24,
+	"workbench.colorScheme": "Visual Studio Dark",
+	"security.workspace.trust.untrustedFiles": "open",
+	"php.validate.executablePath": "C:/xampp/php/php.exe",
+	"editor.formatOnSave": true,
+	"editor.detectIndentation": false,
+	"[Python]":{
+		"editor.formatOnType": true
+	},
+	"window.zoomLevel": 1
+}
